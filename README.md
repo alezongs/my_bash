@@ -1,2 +1,1 @@
-# my_bash
-My Bash Stuff
+# My Bash Stuff
